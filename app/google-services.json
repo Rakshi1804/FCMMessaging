@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "287730255924",
+    "project_id": "messagenotification-7fdeb",
+    "storage_bucket": "messagenotification-7fdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287730255924:android:d2953ec0e96dde8c09e261",
+        "android_client_info": {
+          "package_name": "com.example.fcmmessaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF2ODtOd2gRXAtOqqCHIc_xRYM0vtehbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
